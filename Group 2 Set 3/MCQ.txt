@@ -1,0 +1,3 @@
+Find the time complexity : O(sqrt(n))
+Find the time complexity : O(n)
+Predict the output : 5world
